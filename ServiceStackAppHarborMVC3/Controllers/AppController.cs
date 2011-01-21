@@ -16,5 +16,10 @@ namespace ServiceStackAppHarborMVC3.Controllers
             return View();
         }
 
+        public ActionResult HelloWorld()
+        {
+            return View();
+        }
+
     }
 }
